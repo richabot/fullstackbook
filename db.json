@@ -1,0 +1,270 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "author": "sjjaj",
+      "no_of_chapter": 6,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "richa",
+      "category": "Novel",
+      "release_year": 2019,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "author": "JItesh",
+      "no_of_chapter": 5,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Enthusiasm",
+      "category": "Thriller",
+      "release_year": 2018,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "author": "Masai",
+      "no_of_chapter": 10,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Coventional",
+      "release_year": 2013,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "author": "Masai",
+      "no_of_chapter": 8,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Action",
+      "release_year": 2012,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "author": "Masai",
+      "no_of_chapter": 15,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Fiction",
+      "release_year": 2010,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Spy",
+      "release_year": 2003,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2021,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Spy",
+      "release_year": 2020,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Thriller",
+      "release_year": 2019,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Action",
+      "release_year": 2002,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Spy",
+      "release_year": 2005,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Novel",
+      "release_year": 2014,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "author": "Masai",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Action",
+      "release_year": 2010,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "author": "riya",
+      "no_of_chapter": 13,
+      "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
+      "book_name": "richa",
+      "category": "Novel",
+      "release_year": 2001,
+      "chapter": [
+        {
+          "name": "HTML",
+          "pages": 25
+        },
+        {
+          "name": "CSS",
+          "pages": 30
+        }
+      ]
+    }
+  ]
+}
