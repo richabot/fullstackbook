@@ -2,7 +2,7 @@
   "books": [
     {
       "id": 1,
-      "author": "sjjaj",
+      "author": "shah",
       "no_of_chapter": 6,
       "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
       "book_name": "richa",
@@ -10,30 +10,30 @@
       "release_year": 2019,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
     },
     {
       "id": 2,
-      "author": "JItesh",
+      "author": "xyz",
       "no_of_chapter": 5,
       "cover_photo": "https://thumbs.dreamstime.com/b/library-many-shelves-books-library-many-shelves-books-diminishing-perspective-shallow-dof-159717386.jpg",
-      "book_name": "Enthusiasm",
+      "book_name": "xyz",
       "category": "Thriller",
       "release_year": 2018,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -48,11 +48,11 @@
       "release_year": 2013,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -67,11 +67,11 @@
       "release_year": 2012,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -86,11 +86,11 @@
       "release_year": 2010,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -105,11 +105,11 @@
       "release_year": 2003,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -124,11 +124,11 @@
       "release_year": 2021,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -143,11 +143,11 @@
       "release_year": 2020,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -162,11 +162,11 @@
       "release_year": 2019,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -181,11 +181,11 @@
       "release_year": 2002,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -200,11 +200,11 @@
       "release_year": 2005,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -219,11 +219,11 @@
       "release_year": 2014,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -238,11 +238,11 @@
       "release_year": 2010,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
@@ -257,11 +257,11 @@
       "release_year": 2001,
       "chapter": [
         {
-          "name": "HTML",
+          "name": "maths",
           "pages": 25
         },
         {
-          "name": "CSS",
+          "name": "physics",
           "pages": 30
         }
       ]
